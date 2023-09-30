@@ -5,6 +5,10 @@
 I moment03 som handlar om systemhantering kommer vi att lära oss om Git och github 
 och visa vilka egenskaper de har och hur man kan använda dem.
 
+###### `OBS:` Vilket kommando behöver du använda i terminalen/kommandoprompten för att klona ditt repository till din dator? 
+
+`för att kunna klona min repo behöver du bara skriva det kommandot i terminalen på din dator, först skapa en ny map (mikdir) eller öppnar den target mapp (cd fil namn) som du vill klona filar där och sedan skriver du (git clone https://github.com/kashef0/JS-Course.git) och enter, nu är du klar.` 
+
 
 #### förteckning:
 1. Versionshantering
